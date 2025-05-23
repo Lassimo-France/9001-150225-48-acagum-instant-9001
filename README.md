@@ -1,6 +1,4 @@
 # 9001-150225-48-acagum-instant-9001
-Acagum Instant 9001 / Batch: 9001-150225-48 / Verification
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
